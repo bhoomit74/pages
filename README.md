@@ -1,16 +1,12 @@
 # pages
 
-A new Flutter project.
+This is a project where I share some of screens from my experiment in flutter.
 
-## Getting Started
+I design some complex ui and animation pages and share via this project.
 
-This project is a starting point for a Flutter application.
+on-board screen design :
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/72875438/197332106-3db1ad99-b1fc-470b-a840-ab5ea06f7f21.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
